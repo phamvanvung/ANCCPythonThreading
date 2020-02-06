@@ -1,4 +1,4 @@
-# Anyone Can Coe Python
+# Anyone Can Code Python
 Python Threading tutorial
 The list of complete tutorial is from here: https://www.youtube.com/playlist?list=PLxyOsIbHSrxl-T-5k1ywTpcQC3gvij0Cz
 1. Using Thread
